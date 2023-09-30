@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatalarmCenter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name_caps">DATALARMCENTER</string>
+    <string name="app_user">Bienvenido, Crhistian</string>
+    <string name="create_alarm">Crear alarma</string>
+    <string name="alarms">Mis alarmas</string>
+</resources>

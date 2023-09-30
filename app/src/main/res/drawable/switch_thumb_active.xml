@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/blue" /> <!-- Usa el color de activo definido -->
+    <corners android:radius="30dp" /> <!-- Ajusta el radio según tus preferencias -->
+</shape>
